@@ -1,0 +1,14 @@
+#cor{
+    width: 250px;
+}
+span{
+    display: inline-block;
+}
+#botaofiltro{
+    background-color: orange;
+}
+canvas{
+    border: 3px;
+    border-color: black;
+    border-style: dotted;
+}
